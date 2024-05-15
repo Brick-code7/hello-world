@@ -1,2 +1,2 @@
 # hello-world
-infos assignment
+my name is shaun and i am doing a masters in fintech
